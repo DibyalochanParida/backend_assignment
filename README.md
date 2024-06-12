@@ -25,8 +25,5 @@ Update an User details.
 ## DELETE Delete an User
 Delete an User.
 
-## PUT Marking User as Complete
-Marking an User as complete.
-
 ## Note
 I have uploaded the .env file as this contains the port number only.
